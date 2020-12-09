@@ -1,0 +1,32 @@
+/* カスタマイズ用CSS */
+/*@charset "utf-8";*/
+
+/*フッターの背景色 タイトルフォント変更*/
+.ec-footerRole{
+    background: #0E6AC7;
+    border-top:none; 
+    font-family: 'Philosopher', sans-serif;
+}
+
+/*フッターのタイトルフォント変更*/
+/*.ec-footerTitle {*/
+/*    font-family: 'Philosopher', sans-serif;*/
+/*}*/
+
+/*ヘッダーの背景色 タイトルフォント変更*/
+.ec-headerRole{
+    /*background: #9f9f9f;*/
+    border-top:none; 
+    font-family: 'Philosopher', sans-serif;
+}
+
+.ec-headerTitle img{
+    max-width: 10%;
+    
+}
+.ec-layoutRole {
+    width: 100%;
+    transition: transform 0.2s;
+    background: #f8f8f8;
+    
+}
